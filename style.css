@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #eef7ff;
+  color: #333;
+}
+
+/* Header */
+header {
+  background-color: #d9efff;
+  text-align: center;
+  padding: 25px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
+nav a:hover {
+  background-color: #bfe4ff;
+}
+
+/* Profile */
+.profile {
+  text-align: center;
+  margin: 20px;
+}
+
+.profile img {
+  width: 140px;
+  border-radius: 50%;
+}
+
+/* Sections */
+section {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Cards */
+.card {
+  display: inline-block;
+  background-color: #e8f4ff;
+  margin: 10px;
+  padding: 12px;
+  border-radius: 8px;
+  width: 220px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 10px;
+}
